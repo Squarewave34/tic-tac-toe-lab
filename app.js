@@ -38,6 +38,8 @@ const init = () => {
   turn = "x"
   winner = false
   tie = false
+
+  render();
 }
 
 // this one is the one that marks the boxes
